@@ -1,1 +1,1 @@
-# learning-go
+# Learning Golang programming language
